@@ -1,0 +1,6 @@
+com.mysql.cj.jdbc.Driver
+jdbc:mysql://localhost:
+3306
+restaurant_project
+useUnicode=true&serverTimezone=UTC
+root
